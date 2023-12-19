@@ -11,6 +11,8 @@ days = ["monday","tuesday","wednesday","thursday","friday","saturday","sunday"]
 
 def get_filters():
     """
+    Test comment added - 1
+    Test comment added - 2
     Asks user to specify a city, month, and day to analyze.
 
     Returns:
